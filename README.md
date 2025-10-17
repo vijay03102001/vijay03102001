@@ -1,11 +1,7 @@
 ## Hi there 👋 It's me Vijayakumar
 
-
-
-                                               
 - 🌱 I’m currently learning DEVOPS
-
-
+- 🔭 Here's my [portfolio]   
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/>
  <img width="50" height="50" src="https://img.icons8.com/color/50/linux--v1.png" alt="linux--v1"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img width="50" height="50" src="https://img.icons8.com/color/48/angularjs.png" alt="angularjs"/>
